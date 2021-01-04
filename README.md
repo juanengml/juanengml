@@ -2,7 +2,7 @@
 **Bem vindo ao Meu Repo >///<** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Estou sempre trabalhando em algo bem legal ! 
-- 📫 Me chama no Linkedin e vamos fofocar 💬 : https://www.linkedin.com/in/juan-marinho-6309ba84/  ...
+- 📫 Me chama no Linkedin e vamos fofocar 💬 : https://www.linkedin.com/in/sr-marinho/
 - 😄 PS: Me chamo Juan com Som de (Ruan)
 
 
