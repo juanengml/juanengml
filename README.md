@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Bem vindo ao Meu Repo >///<** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bem vindo ao Meu Repo >///<**
 
 - 🔭 Estou sempre trabalhando em algo bem legal ! 
 - 📫 Me chama no Linkedin e vamos fofocar 💬 : https://www.linkedin.com/in/sr-marinho/
