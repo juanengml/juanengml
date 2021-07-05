@@ -1,6 +1,6 @@
 ![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=juanengml&repo=juanengml&countColorcountColor)
 
-<img align="right" src="https://5.imimg.com/data5/JO/MI/MY-14645284/python-developer-500x500.png" width="300"/>
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
 
 <h1 align="center">Juan Marinho</h1>
 
