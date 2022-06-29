@@ -19,13 +19,12 @@
 <br>
 
 <h4 align="center"> 
-	🚧 Em 2017 a 2019, Tirei minhas certificações em Machine Learning Engineer e Deep Learning pela Udacity 🚀, estou no ultimo ano da graduação em Big Data e Inteligência Analitica na PUCPR, atuo tambem com consultoria em Big Data, MLOps e Visão Computacional ❤️, desde então o foco é a busca constante pelo aprendizado e especialização. 😃
+	🚧 Formado em Big Data e Inteligência analítica pela PUCPR, sou certificado como Machine Learning Engineer e Deep Learning pela Udacity 🚀, sou consultor em Big Data, MLOps e Visão Computacional ❤️, desde então o foco é a busca constante pelo aprendizado e especialização. 😃
 	
 </h4>
 <br>
 
 ### :mortar_board: Formação acadêmica
-  - UTFPR - Engenharia da Computação (2018-incompleto)
   - PUCPR - Big Data e Inteligência Analitica (2022)
   
 ### :mortar_board: CERTIFICAÇÕES 
