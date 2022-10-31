@@ -1,5 +1,3 @@
-![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=juanengml&repo=juanengml&countColorcountColor)
-
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500"/>
 
 <h1 align="center">Juan Marinho</h1>
