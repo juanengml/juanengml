@@ -4,7 +4,7 @@
 
 
 ### :mortar_board: Formação acadêmica
-  - UTFPR  - PÓS GRADUAÇÃO - AI (2024) ⌛
+  - UTFPR  - PÓS GRADUAÇÃO - AI (2025) ✅
   - PUCRIO - PÓS GRADUAÇÃO - ENGENHARIA DE SOFTWARE (2024) ✅
   - PUCPR  - GRADUAÇÃO - Big Data e Inteligência Analitica (2022) ✅
   
